@@ -1,0 +1,14 @@
+/Users/maksim/Desktop/CsLabs/Lab1/bin/Debug/net9.0/Lab1
+/Users/maksim/Desktop/CsLabs/Lab1/bin/Debug/net9.0/Lab1.deps.json
+/Users/maksim/Desktop/CsLabs/Lab1/bin/Debug/net9.0/Lab1.runtimeconfig.json
+/Users/maksim/Desktop/CsLabs/Lab1/bin/Debug/net9.0/Lab1.dll
+/Users/maksim/Desktop/CsLabs/Lab1/bin/Debug/net9.0/Lab1.pdb
+/Users/maksim/Desktop/CsLabs/Lab1/obj/Debug/net9.0/Lab1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maksim/Desktop/CsLabs/Lab1/obj/Debug/net9.0/Lab1.AssemblyInfoInputs.cache
+/Users/maksim/Desktop/CsLabs/Lab1/obj/Debug/net9.0/Lab1.AssemblyInfo.cs
+/Users/maksim/Desktop/CsLabs/Lab1/obj/Debug/net9.0/Lab1.csproj.CoreCompileInputs.cache
+/Users/maksim/Desktop/CsLabs/Lab1/obj/Debug/net9.0/Lab1.dll
+/Users/maksim/Desktop/CsLabs/Lab1/obj/Debug/net9.0/refint/Lab1.dll
+/Users/maksim/Desktop/CsLabs/Lab1/obj/Debug/net9.0/Lab1.pdb
+/Users/maksim/Desktop/CsLabs/Lab1/obj/Debug/net9.0/Lab1.genruntimeconfig.cache
+/Users/maksim/Desktop/CsLabs/Lab1/obj/Debug/net9.0/ref/Lab1.dll
