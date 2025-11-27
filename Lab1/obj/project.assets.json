@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/maksim/Desktop/CsLabs/Lab1/Lab1.csproj",
+      "projectUniqueName": "/Users/maksim/Desktop/Uni/CsLabs/OOP-labs/Lab1/Lab1.csproj",
       "projectName": "Lab1",
-      "projectPath": "/Users/maksim/Desktop/CsLabs/Lab1/Lab1.csproj",
+      "projectPath": "/Users/maksim/Desktop/Uni/CsLabs/OOP-labs/Lab1/Lab1.csproj",
       "packagesPath": "/Users/maksim/.nuget/packages/",
-      "outputPath": "/Users/maksim/Desktop/CsLabs/Lab1/obj/",
+      "outputPath": "/Users/maksim/Desktop/Uni/CsLabs/OOP-labs/Lab1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/maksim/.nuget/NuGet/NuGet.Config"
